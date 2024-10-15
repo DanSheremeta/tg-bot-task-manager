@@ -1,0 +1,6 @@
+# Local Enviroment
+virtualenv/
+.env
+
+# PyCharm staff
+.idea
