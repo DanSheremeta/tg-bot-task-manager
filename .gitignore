@@ -137,3 +137,7 @@ cython_debug/
 
 # PyCharm
 .idea/
+
+# DataBase
+task_manager.db
+identifier.sqlite
